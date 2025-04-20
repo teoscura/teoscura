@@ -10,4 +10,4 @@ ___Aspiring software engineer, studying at PoliMi 🌱___
 + ✒️'The Game', a mobile social-media inspired app replication of the famous meme
 + ✒️'Pocket Monster Open'. a open source library to implement turn-based monster fighting systems.
 
-huge thanks for the pfp to Mina
+_(huge thanks for the pfp to Mina)_
