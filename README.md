@@ -1,4 +1,4 @@
-__🌱 Aspiring software engineer, studying at PoliMi 🌱__
+__🌱 Aspiring software engineer, studying for my MSc at PoliMi 🌱__
 
 🔧 As of now I'm working on and contributing to: 🔧
 
